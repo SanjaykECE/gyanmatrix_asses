@@ -1,0 +1,26 @@
+
+
+body{
+    background-image: url(/image/298cd4ffd68b87514b6cd7e390ac5279\ 1.png);
+}
+.container{
+    text-align: center;
+    background-color: dark;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+   
+    background-repeat:no-repeat;
+    position: absolute;
+    width: 247px;
+    height: 46px;
+    left: 48px;
+    top: 68.01px;
+
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+}
